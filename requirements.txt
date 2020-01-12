@@ -1,2 +1,5 @@
-jupyter
-requests==1.19.0
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+requests==2.22.0
+py-ms==2.0.0

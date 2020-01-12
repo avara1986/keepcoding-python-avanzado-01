@@ -30,3 +30,6 @@ if __name__ == '__main__':
     print(result[:10])
     print("\n\n======================================================\n\n")
     print(timethis(mi_funcion2, fn_name="mi super funcion con decorador")(fn_name="mi super funcion")[:10])
+    print("\n\n======================================================\n\n")
+    result = mi_funcion()
+    print(result[:10])

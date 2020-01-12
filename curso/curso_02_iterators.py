@@ -5,7 +5,7 @@ def mi_funcion():
 
 
 def mi_funcion2():
-    return [i for i in mi_funcion()]
+    return [i + 1 for i in mi_funcion()]
 
 
 if __name__ == '__main__':
