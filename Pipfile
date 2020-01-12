@@ -12,6 +12,7 @@ pylint = "*"
 flake8 = "*"
 safety = "*"
 bandit = "*"
+jupyter-console = "*"
 
 [requires]
 python_version = "3.7"
