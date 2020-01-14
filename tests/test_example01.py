@@ -1,8 +1,7 @@
 from unittest import TestCase
-try:
-    from unittest import mock
-except ImportError:
-    import mock
+
+import mock
+
 from curso.example01 import mi_funcion2
 
 
